@@ -14,9 +14,9 @@
 5) Installation : Android Studio (or Gradle) No need to clone the repository or download any files -- just add this line to your app's build.gradle inside the dependencies section:
 
 ```
- compile 'com.opensourcehash:opendatahash:0.0.04'
+ compile 'com.opensourcehash:opendatahash:1.0.0'
                     (or)
- implementation 'com.opensourcehash:opendatahash:0.0.04' if you are using Android Studio version 3.0
+ implementation 'com.opensourcehash:opendatahash:1.0.0' if you are using Android Studio version 3.0
 ```
 
 Note: We recommend you to use
