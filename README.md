@@ -30,7 +30,7 @@ Usage : To initiate our library, place the below code at initial activity of you
 OpendataHashApp.initialize(context, apiKey, emailId_SHA256_Hash, advertiserId);
 ```
 context -> your application context
-apiKey -> your registered application API key from http://209.58.136.23:2001
+apiKey -> your registered application API key from http://trudata.io
 emailIdHash -> primary emailId from the mobile in SHA-256 hash encryption formate
 advertiserId -> it is the google advertiserId from the mobile.
 ```
